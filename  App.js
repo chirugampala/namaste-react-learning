@@ -4,5 +4,5 @@ const heading = React.createElement("div",{},[
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-
+console.log("test");
 root.render(heading);
